@@ -87,7 +87,7 @@ Audio Output (.mp3)
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 
@@ -166,7 +166,7 @@ output.mp3
 
 ---
 
-## 📊 Example Behavior
+##  Example Behavior
 
 | Input Text               | Detected Emotion | Output Style        |
 | ------------------------ | ---------------- | ------------------- |
@@ -201,12 +201,6 @@ we can add much more....
 ##  Conclusion
 
 This project demonstrates how combining **NLP + voice synthesis** can significantly improve human-AI interaction. By adding emotional intelligence to speech, AI systems become more engaging, trustworthy, and effective.
-
----
-
-## 👨‍💻 Author
-
-**Shaf**
 
 ---
 
