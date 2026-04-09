@@ -92,8 +92,8 @@ Audio Output (.mp3)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Smathaf09@/empathy-engine.git
-cd empathy-engine
+git clone https://github.com/Smathaf09/The-Empathy-Engine.git
+cd The-Empathy-Engine
 ```
 
 ---
